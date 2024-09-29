@@ -57,14 +57,14 @@ Several visualizations were generated to better understand the trends and relati
 
 - **Description**: A heatmap showing the correlation between various features such as sales, temperature, unemployment, and other factors.
 
-### 5. Sales and Temperature
+# Sales and Temperature
 
 ![Sales vs Temperature](Results/Sales_and_Temperature.png)
 
 - **Description**: A scatter plot showing the relationship between sales and temperature.
 - **Insight**: There is a weak but noticeable correlation between temperature and sales, suggesting that weather conditions may have a mild impact on consumer behavior.
 
-### 6. Unemployment Rate vs Sales
+# Unemployment Rate vs Sales
 
 ![Unemployment Rate vs Sales](Results/unemployment_vs_sales.png)
 
